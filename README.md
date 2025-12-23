@@ -1,2 +1,2 @@
 # typingmind-extensions
-Custom extensions and themes for TypingMind
+Custom extensions for TypingMind
